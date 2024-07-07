@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+select, button {
+  margin: 10px 0;
+  padding: 5px;
+}
+
+.compatibility-data {
+  margin-top: 20px;
+}
+
+.compatibility-data h2 {
+  margin-bottom: 10px;
+}
+
+.compatibility-data pre {
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.browser-support {
+  margin-top: 10px;
+}
+
+.browser-support dt {
+  font-weight: bold;
+}
